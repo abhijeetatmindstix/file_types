@@ -1,0 +1,167 @@
+
+{
+   "SBI":{ "header": [
+        {
+            "id": 1,
+            "Services": [
+                {
+                    "id": 1,
+                    "name": "Persional internet banking"
+                },
+                {
+                    "id": 2,
+                    "name": "Corporate internet banking"
+                },
+                {
+                    "id": 3,
+                    "name": "SBI payments"
+                },
+                {
+                    "id": 4,
+                    "name": "online tax/payment/reciept/challan printing"
+                }
+            ],
+            "id": 2,
+            "Mobile Banking": [
+                {
+                    "id": 1,
+                    "name": "Yono LITE"
+                },
+                {
+                    "id": 2,
+                    "name": "Anywhere Corporate"
+                }
+            ],
+            "id": 3,
+            "FAQ": [
+                {
+                    "id": 1,
+                    "name": "Persional Banking FAQ"
+                },
+                {
+                    "id": 2,
+                    "name": "Corporate Banking FAQ"
+                },
+                {
+                    "id": 3,
+                    "name": "Yono LITE FAQ"
+                },
+                {
+                    "id": 4,
+                    "name": "State bank secure OTP App"
+                }
+            ],
+            "id": 4,
+            "Corporate Website": [],
+            "id": 5,
+            "SBIePay Lite (SBMOPS)": [
+                {
+                    "id": 1,
+                    "name": "SBIePay Lite (formerly SBMOPS) Branch Challan(CP)/Reprint Remittance Form"
+                },
+                {
+                    "id": 2,
+                    "name": "SBIePay Lite (formerly SBMOPS) For Cancel RTGS/NEFT/BRANCH Transactions (CP)"
+                },
+                {
+                    "id": 3,
+                    "name": "SBIePay Lite (formerly SBMOPS) RTGS-NEFT PAP Challan Reprint Form (CP)"
+                },
+                {
+                    "id": 4,
+                    "name": "Online Tax / Payment / Receipt / Challan printing"
+                }
+            ],
+            "id": 6,
+            "SB collect": [],
+            "id": 7,
+            "Electoral Bond": [
+                {
+                    "id": 1,
+                    "name": "Information/Download"
+                },
+                {
+                    "id": 2,
+                    "name": "Remittance"
+                },
+                {
+                    "id": 3,
+                    "name": "Print.Reciept Reprint"
+                }
+            ],
+            "id": 8,
+            "Videos": [],
+            "id": 9,
+            "mCash": [],
+            "id": 10,
+            "Apply for SB/ Current Account": [
+                {
+                    "id": 1,
+                    "name": "Savings Bank Account"
+                },
+                {
+                    "id": 2,
+                    "name": "Current Account"
+                },
+                {
+                    "id": 3,
+                    "name": "Banking Forms"
+                }
+            ],
+            "id": 10,
+            "NPS": [
+                {
+                    "id": 1,
+                    "name": "Corporate Employee Registration"
+                }
+            ],
+            "id": 11,
+            "SBI Unipay": [
+                {
+                    "id": 1,
+                    "name": "SBI Unipay (BBPS)"
+                }
+            ],
+            "id": 12,
+            "Services": [
+                {
+                    "id": 1,
+                    "name": "E - Mandate New"
+                },
+                {
+                    "id": 2,
+                    "name": "Home Loan"
+                },
+                {
+                    "id": 3,
+                    "name": "SBI payments"
+                },
+                {
+                    "id": 4,
+                    "name": "e-MUDRA"
+                },
+                {
+                    "id": 5,
+                    "name": "Gold Loan"
+                },
+                {
+                    "id": 6,
+                    "name": "Vehicle Loan"
+                },
+                {
+                    "id": 7,
+                    "name": "Pension Loan"
+                },
+                {
+                    "id": 8,
+                    "name": "Retailer Finance"
+                }
+            ]
+        }
+    ],
+    "carousel":[
+
+    ]
+}
+    
+}
