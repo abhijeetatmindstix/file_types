@@ -165,8 +165,64 @@
         }
     ],
     "carousel":[
+                {
+                    "id":1,
+                    "Persional Banking":[
+                        {"id":1,
+                        "name": "New User Registration /Activation",
+                        "image":"image path"
+                    },
+                        {"id":2,
+                        "name": "How Do I",
+                         "image":"image path"
+                    },
 
-    ]
+                    {"id":2,
+                        "name": "Customer Care",
+                         "image":"image path"
+                    },
+                    {"id":2,
+                        "name": "Lock & Unlock User",
+                         "image":"image path"
+                    }
+                    
+                    ]
+                    
+                    
+                },
+                {
+
+                }   
+
+    ],
+    "carousel":[
+        {
+            "id":2,
+            "Corporate Banking":[
+                {"id":1,
+                "name": "New Corporate Registration",
+                "image":"image path"
+            },
+                {"id":2,
+                "name": "How Do I",
+                 "image":"image path"
+            },
+
+            {"id":2,
+                "name": "Customer Care",
+                 "image":"image path"
+            }
+            
+            
+            ]
+            
+            
+        },
+        {
+
+        }   
+
+]
 }
     
 }
