@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SBI>
+  <header>
+    <id>12</id>
+    <Services>
+      <id>1</id>
+      <name>E - Mandate New</name>
+    </Services>
+    <Services>
+      <id>2</id>
+      <name>Home Loan</name>
+    </Services>
+    <Services>
+      <id>3</id>
+      <name>SBI payments</name>
+    </Services>
+    <Services>
+      <id>4</id>
+      <name>e-MUDRA</name>
+    </Services>
+    <Services>
+      <id>5</id>
+      <name>Gold Loan</name>
+    </Services>
+    <Services>
+      <id>6</id>
+      <name>Vehicle Loan</name>
+    </Services>
+    <Services>
+      <id>7</id>
+      <name>Pension Loan</name>
+    </Services>
+    <Services>
+      <id>8</id>
+      <name>Retailer Finance</name>
+    </Services>
+    <Services>
+      <id>8</id>
+      <name>Retailer Finance</name>
+    </Services>
+    <FAQ>
+      <id>1</id>
+      <name>Persional Banking FAQ</name>
+    </FAQ>
+    <FAQ>
+      <id>2</id>
+      <name>Corporate Banking FAQ</name>
+    </FAQ>
+    <FAQ>
+      <id>3</id>
+      <name>Yono LITE FAQ</name>
+    </FAQ>
+    <FAQ>
+      <id>4</id>
+      <name>State bank secure OTP App</name>
+    </FAQ>
+    <Videos/>
+    <mCash/>
+    <NPS>
+      <id>1</id>
+      <name>Corporate Employee Registration</name>
+    </NPS>
+    <Mobile_Banking>
+      <id>1</id>
+      <name>Yono LITE</name>
+    </Mobile_Banking>
+    <Mobile_Banking>
+      <id>2</id>
+      <name>Anywhere Corporate</name>
+    </Mobile_Banking>
+    <Corporate_Website/>
+    <SBIePay_Lite_(SBMOPS)>
+      <id>1</id>
+      <name>SBIePay Lite (formerly SBMOPS) Branch Challan(CP)/Reprint Remittance Form</name>
+    </SBIePay_Lite_(SBMOPS)>
+    <SBIePay_Lite_(SBMOPS)>
+      <id>2</id>
+      <name>SBIePay Lite (formerly SBMOPS) For Cancel RTGS/NEFT/BRANCH Transactions (CP)</name>
+    </SBIePay_Lite_(SBMOPS)>
+    <SBIePay_Lite_(SBMOPS)>
+      <id>3</id>
+      <name>SBIePay Lite (formerly SBMOPS) RTGS-NEFT PAP Challan Reprint Form (CP)</name>
+    </SBIePay_Lite_(SBMOPS)>
+    <SBIePay_Lite_(SBMOPS)>
+      <id>4</id>
+      <name>Online Tax / Payment / Receipt / Challan printing</name>
+    </SBIePay_Lite_(SBMOPS)>
+    <SB_collect/>
+    <Electoral_Bond>
+      <id>1</id>
+      <name>Information/Download</name>
+    </Electoral_Bond>
+    <Electoral_Bond>
+      <id>2</id>
+      <name>Remittance</name>
+    </Electoral_Bond>
+    <Electoral_Bond>
+      <id>3</id>
+      <name>Print.Reciept Reprint</name>
+    </Electoral_Bond>
+    <Apply_for_SB/_Current_Account>
+      <id>1</id>
+      <name>Savings Bank Account</name>
+    </Apply_for_SB/_Current_Account>
+    <Apply_for_SB/_Current_Account>
+      <id>2</id>
+      <name>Current Account</name>
+    </Apply_for_SB/_Current_Account>
+    <Apply_for_SB/_Current_Account>
+      <id>3</id>
+      <name>Banking Forms</name>
+    </Apply_for_SB/_Current_Account>
+    <SBI_Unipay>
+      <id>1</id>
+      <name>SBI Unipay (BBPS)</name>
+    </SBI_Unipay>
+  </header>
+  <carousel>
+    <id>2</id>
+    <Corporate_Banking>
+      <id>1</id>
+      <name>New Corporate Registration</name>
+      <image>image path</image>
+    </Corporate_Banking>
+    <Corporate_Banking>
+      <id>2</id>
+      <name>How Do I</name>
+      <image>image path</image>
+    </Corporate_Banking>
+    <Corporate_Banking>
+      <id>2</id>
+      <name>Customer Care</name>
+      <image>image path</image>
+    </Corporate_Banking>
+  </carousel>
+  <carousel></carousel>
+</SBI>
